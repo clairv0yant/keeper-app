@@ -1,6 +1,6 @@
 # Keeper App
 
-This project was created while completing [Anegela Yu's Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on uDemy.
+This project was created while completing [Anegela Yu's Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy.
 
 ## Setup
 
