@@ -18,7 +18,7 @@ function Compose(props) {
 
   return (
     <form>
-      <div className="note">
+      <div className="create-area">
         <input
           onChange={handleChange}
           type="text"
